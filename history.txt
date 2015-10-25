@@ -1,0 +1,107 @@
+    1  cd /opt/mean
+    2  ls
+    3  time grunt
+    4  ls
+    5  cd /opt/mean; grunt
+    6  cd ~/simple-todos/
+    7  ls
+    8  wc *
+    9  vi simple-todos.html 
+   10  vi simple-todos.js 
+   11  ls
+   12  vi simple-todos.css 
+   13  vi simple-todos.js 
+   14  meteor mongo
+   15  wget https://raw.githubusercontent.com/meteor/simple-todos/8434ab7042eb750c50ab58efd7231f1c97c630ed/simple-todos.html
+   16  ls
+   17  mv simple-todos.html.1 simple-todos.html
+   18  vi simple-todos.js 
+   19  ls
+   20  echo *
+   21  echo * | cat
+   22  ls * | cat
+   23  ls * > alias
+   24  vi alias 
+   25  . alias 
+   26  vi alias 
+   27  . alias 
+   28  h
+   29  j
+   30  history 
+   31  meteor mongo
+   32  h
+   33  meteor deploy my_app_name.meteor.com
+   34  meteor deploy decoy.meteor.com
+   35  pwd
+   36  ls
+   37  which npm
+   38  cd /opt/mean
+   39  ls
+   40  cd config//env/
+   41  ls -ort
+   42  view production.js 
+   43  cd ../..
+   44  ls 
+   45  find -type d
+   46  find | wc -l
+   47  find | grep express
+   48  ls
+   49  which grunt
+   50  view gruntfile.js 
+   51  which git
+   52  cd ~
+   53  ls
+   54  curl https://install.meteor.com | sh
+   55  meteor create simple-todos
+   56  free
+   57  which apt-get
+   58  sudo apt-get install swapspace
+   59  meteor create simple-todos
+   60  ls -l
+   61  rm -rf simple-todos/
+   62  meteor create simple-todos
+   63  cd simple-todos/
+   64  meteor 
+   65  sudo add-apt-repository ppa:cassou/emacs
+   66  sudo apt-get update
+   67  sudo apt-get install emacs24 emacs24-el
+   68  which emacs
+   69  emacs 
+   70  ls -la
+   71  cd simple-todos/
+   72  ls -la
+   73  rm *~
+   74  ls -la
+   75  cd ..
+   76  cp -r simple-todos{,.bak}
+   77  cd -
+   78  git init
+   79  git remote add git@github.com:tempest200903/20151025-meteor-tutorial-simple-todos.git
+   80  git remote add 
+   81  git remote add origin
+   82  git remote add origin https://github.com/tempest200903/20151025-meteor-tutorial-simple-todos.git
+   83  git pull
+   84  git pull origin master
+   85  git push
+   86  git commit -a .
+   87  git commit -A
+   88  git add .
+   89  git commit
+   90  git config --global user.email tempest200903@gmail.com
+   91  git config --global user.name "tempest200903"
+   92  git commit
+   93  fg
+   94  git config --global core.editor emacs
+   95  git commit
+   96  ls
+   97  git status
+   98  git push
+   99  meteor add accounts-ui accounts-password
+  100  fg
+  101  git status
+  102  git diff
+  103  git add .
+  104  git commit
+  105  git push
+  106  history 
+  107  history > history.txt
