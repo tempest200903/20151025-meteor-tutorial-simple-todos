@@ -1,3 +1,6 @@
+# Tutorial
+
+## Tutorial.1
 https://www.meteor.com/tutorials/blaze/creating-an-app
 Creating your first app
 meteor@meteor1003:~/tutorial$ meteor create simple-todos
@@ -10,5 +13,4 @@ meteor@meteor1003:~/tutorial/simple-todos$ meteor
 => Started your app.                          
 
 => App running at: http://localhost:3000/
-
 
