@@ -1,0 +1,14 @@
+https://www.meteor.com/tutorials/blaze/creating-an-app
+Creating your first app
+meteor@meteor1003:~/tutorial$ meteor create simple-todos
+meteor@meteor1003:~/tutorial$ cd simple-todos
+meteor@meteor1003:~/tutorial/simple-todos$ meteor
+[[[[[ ~/tutorial/simple-todos ]]]]]           
+
+=> Started proxy.                             
+=> Started MongoDB.                           
+=> Started your app.                          
+
+=> App running at: http://localhost:3000/
+
+
