@@ -8,10 +8,15 @@ Creating your first app
 ## Tutorial.2
 https://www.meteor.com/tutorials/blaze/templates
 Defining views with templates
-2015-11-08: done
+2015-11-09: done
 
 ## Tutorial.3
 https://www.meteor.com/tutorials/blaze/collections
 Storing tasks in a collection
-2015-11-08: done
+2015-11-09: done
+
+## Tutorial.4
+https://www.meteor.com/tutorials/blaze/forms-and-events
+Adding tasks with a form
+2015-11-09: 
 
