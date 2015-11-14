@@ -20,3 +20,7 @@ https://www.meteor.com/tutorials/blaze/forms-and-events
 Adding tasks with a form
 2015-11-09: 
 
+## Tutorial.5
+https://www.meteor.com/tutorials/blaze/update-and-remove
+Checking off and deleting tasks
+
