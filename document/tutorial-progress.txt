@@ -24,3 +24,7 @@ Adding tasks with a form
 https://www.meteor.com/tutorials/blaze/update-and-remove
 Checking off and deleting tasks
 
+## Tutorial 6
+https://www.meteor.com/tutorials/blaze/deploying-your-app
+Deploying your app
+

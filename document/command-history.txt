@@ -19,3 +19,7 @@ https://www.meteor.com/tutorials/blaze/collections
 Storing tasks in a collection
 $ meteor mongo
 meteor:PRIMARY> db.tasks.insert({ text: "hello world!", createdAt: new Date()});
+
+## Tutorial.6
+https://www.meteor.com/tutorials/blaze/deploying-your-app
+meteor deploy decoy.meteor.com
