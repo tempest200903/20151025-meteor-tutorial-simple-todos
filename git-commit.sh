@@ -1,5 +1,5 @@
 git add .
-git commit -m "Cloeses Tutorial.6 Deploying your app"
+git commit -m "Cloeses Tutorial 8 Storing temporary UI state in Session" 
 
 
 

@@ -28,3 +28,6 @@ Checking off and deleting tasks
 https://www.meteor.com/tutorials/blaze/deploying-your-app
 Deploying your app
 
+## Tutorial 8
+https://www.meteor.com/tutorials/blaze/temporary-ui-state
+Storing temporary UI state in Session
