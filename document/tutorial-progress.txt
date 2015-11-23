@@ -31,3 +31,9 @@ Deploying your app
 ## Tutorial 8
 https://www.meteor.com/tutorials/blaze/temporary-ui-state
 Storing temporary UI state in Session
+
+## Tutorial 9
+Adding user accounts
+https://www.meteor.com/tutorials/blaze/adding-user-accounts
+
+
