@@ -36,4 +36,6 @@ Storing temporary UI state in Session
 Adding user accounts
 https://www.meteor.com/tutorials/blaze/adding-user-accounts
 
-
+## Tutorial 9
+Security with methods
+https://www.meteor.com/tutorials/blaze/security-with-methods
