@@ -39,3 +39,7 @@ https://www.meteor.com/tutorials/blaze/adding-user-accounts
 ## Tutorial 9
 Security with methods
 https://www.meteor.com/tutorials/blaze/security-with-methods
+
+## Tutorial 10
+Filtering data with publish and subscribe
+https://github.com/tempest200903/20151025-meteor-tutorial-simple-todos/issues/10
